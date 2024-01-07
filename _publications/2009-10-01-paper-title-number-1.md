@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "List Scheduling for Heterogeneous Computing Systems Introducing a Performance-Effective Definition for Critical Path"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: ''
+date: 2019-10-24
+venue: '2019 9th International Conference on Computer and Knowledge Engineering (ICCKE)'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8964738'
+citation: 'F. Dorostkar and S. Mirzakuchaki, "List Scheduling for Heterogeneous Computing Systems Introducing a Performance-Effective Definition for Critical Path," 2019 9th International Conference on Computer and Knowledge Engineering (ICCKE), Mashhad, Iran, 2019, pp. 356-362, doi: 10.1109/ICCKE48569.2019.8964738.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8964738)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: F. Dorostkar and S. Mirzakuchaki, "List Scheduling for Heterogeneous Computing Systems Introducing a Performance-Effective Definition for Critical Path," 2019 9th International Conference on Computer and Knowledge Engineering (ICCKE), Mashhad, Iran, 2019, pp. 356-362, doi: 10.1109/ICCKE48569.2019.8964738.
