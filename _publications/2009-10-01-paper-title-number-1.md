@@ -1,7 +1,7 @@
 ---
 title: "List Scheduling for Heterogeneous Computing Systems Introducing a Performance-Effective Definition for Critical Path"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/paper-CIPOP
 excerpt: ''
 date: 2019-10-24
 venue: 'Proceedings of the 9th International Conference on Computer and Knowledge Engineering (ICCKE)'
