@@ -1,0 +1,11 @@
+---
+title: "Design of VLSI Circuits"
+collection: teaching
+type: "Graduate"
+permalink: /teaching/IUST-VLSI
+venue: "Iran University of Science and Technology (IUST)"
+date: Winter & Fall 2019
+location: ""
+---
+
+I was the teaching assistant for the graduate course "Design of VLSI Circuits" for two semesters at the School of Electrical Engineering, IUST. My responsibilities included giving lectures, preparing final projects, and grading.
