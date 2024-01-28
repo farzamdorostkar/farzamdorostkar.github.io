@@ -4,7 +4,6 @@ collection: teaching
 type: "Graduate"
 permalink: /teaching/IUST-VLSI
 venue: "Iran University of Science and Technology (IUST), Winter & Fall 2019"
-date: ""
 location: ""
 ---
 
