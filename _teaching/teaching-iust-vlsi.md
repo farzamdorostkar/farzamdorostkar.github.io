@@ -3,8 +3,8 @@ title: "Design of VLSI Circuits"
 collection: teaching
 type: "Graduate"
 permalink: /teaching/IUST-VLSI
-venue: "Iran University of Science and Technology (IUST)"
-date: 2019-01-01
+venue: "Iran University of Science and Technology (IUST), Winter & Fall 2019"
+date:
 location: ""
 ---
 
