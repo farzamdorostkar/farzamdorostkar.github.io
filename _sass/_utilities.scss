@@ -183,7 +183,7 @@ body:hover .visually-hidden button {
 
 .social-icons {
   .fa {
-    color: #000;
+    color: $warning-color; //farzam: sets default icon color
   }
 
   .fa-behance,
@@ -211,7 +211,7 @@ body:hover .visually-hidden button {
   .fa-github,
   .fa-github-alt,
   .fa-github-square {
-    color: $github-color;
+    color: $warning-color; // farzam: overwrite github icon color
   }
 
   .fa-google-plus,
@@ -230,7 +230,7 @@ body:hover .visually-hidden button {
 
   .fa-linkedin,
   .fa-linkedin-square {
-    color: $linkedin-color;
+    color: $warning-color; //farzam: overwrite linkedin icon color
   }
 
   .fa-pinterest,
@@ -282,6 +282,14 @@ body:hover .visually-hidden button {
   .fa-xing-square {
     color: $xing-color;
   }
+
+  .fa-researchgate {
+    color: $warning-color;
+  } // farzam: added to overwrite researchgate icon color
+
+  .fa-graduation-cap {
+    color: $warning-color;
+  } // farzam: added to overwrite google scholar icon color
 }
 
 
