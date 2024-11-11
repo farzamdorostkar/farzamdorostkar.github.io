@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D Candidate in Computer Engineering, Polytechnique Montréal, March 2025 (expected)
+* M.S. in Electrical Engineering - Digital Computing Systems, Iran University of Science and Technology (IUST), 2020
+* B.S. in Electrical Engineering - Electronics, University of Guilan, 2016
 
 Work experience
 ======

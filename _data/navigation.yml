@@ -10,7 +10,7 @@ main:
     url: /teaching/    
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://farzamdorostkar.github.io/mkdocs-pages/
     
   - title: "CV"
     url: /cv/
