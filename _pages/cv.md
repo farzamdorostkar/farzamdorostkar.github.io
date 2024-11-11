@@ -17,24 +17,20 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2020: 
+  * Software Test Engineer
+  * IUST Electronics Research Institute
   
-Skills
+Main Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* LLVM Compiler Infrastructure
+  * Proficient in writing LLVM passes for code analysis and instrumentation
+* GNU Compiler Collection
+* Hardware tracing using Intel Processor Trace and ARM CoreSight
+* Pointer tainting and alias analysis
+* X86 and ARM assembly
+* Programming Languages: C, C++, Java, Python
+* Hardware Description Languages: VHDL, Verilog
 
 Publications
 ======
